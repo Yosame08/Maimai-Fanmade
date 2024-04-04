@@ -1,5 +1,6 @@
 *.flac
 *.flp
 *.psd
-
+*.wav
+*.mp4
 .autosave/
